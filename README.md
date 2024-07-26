@@ -1,11 +1,10 @@
-Olá, meu nome é Dante, sou um homem trans e ingressei a pouco tempo na área de tecnologia.
-Atualmente estou estudando e trabalhando com front-end, porém tenho interesse também em back-end.
-As Linguagens que atualmente estudo e trabalho é Java e JavaScript. Também utilizo as tecnologias de Html 5, Css3 e Git.
+Olá, meu nome é Dante, sou um homem trans e estou a 3 anos na área de tecnologia.
+A 1 ano e 8 meses ingressei na área de dados e atualmente estudo para análise e ciência de dados.
+A Linguagem que atualmente estudo e trabalho é Python. Também utilizo o Power Bi para visualização de dados. E as IDE's que utilizo são Visual Code Studio e Jupyter Notebook.
 Vocês podem me contatar através daqui no github ou através do [LinkedIn](https://www.linkedin.com/in/dante-cavalcante-santos/).
 Obrigado por sua atenção.
 
-Hi, my name is Dante, I'm a transgender and entered a little time in this technology area.
-Today I studying and working with front-end, but I have interest in back-end too.
-The languagens currenttly I tht study and work is Java and JavaScript. Also I use the technologys how Html 5, Css3 e Git.
-You can contact me through here on GitHub and [LinkedIn](https://www.linkedin.com/in/dante-cavalcante-santos/).
+Hello, my name is Dante. I am a trans man and I have been in the technology field for 3 years. For the past 1 year and 8 months, I have been working in the data field and I am currently studying data analysis and data science.
+The programming language I currently study and work with is Python. I also use Power BI for data visualization. The IDEs I use are Visual Studio Code and Jupyter Notebook.
+You can contact me here on GitHub or through [LinkedIn](https://www.linkedin.com/in/dante-cavalcante-santos/?locale=en_US).
 Thank you for your attention.
