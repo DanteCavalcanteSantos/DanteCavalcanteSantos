@@ -1,6 +1,6 @@
 # Olá, meu nome é Dante! 🧠📊
 
-Sou um homem trans🏳️‍⚧️ e atuo na área de tecnologia há mais de 5 anos, com foco em dados nos últimos 2 anos.
+Sou um homem trans🏳️‍⚧️ e atuo na área de tecnologia há mais de 5 anos, com foco em dados nos últimos 3 anos.
 
 Atualmente curso Ciência de Dados e desenvolvo projetos que transformam dados em insights estratégicos, facilitando a tomada de decisões de forma clara e acessível. Tenho experiência com a linguagem Python e com ferramentas de visualização de dados como Power BI.
 
