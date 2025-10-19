@@ -19,7 +19,7 @@ Obrigado pela visita ao meu perfil! 🚀
 
 # Hi, my name is Dante! 🧠📊
 
-I'm a transgender man🏳️‍⚧️ and I've been working in the tech field for over 5 years, with a strong focus on data for the past 2 years.
+I'm a transgender man🏳️‍⚧️ and I've been working in the tech field for over 5 years, with a strong focus on data for the past 3 years.
 
 I'm currently pursuing a degree in Data Science and developing projects that turn data into strategic insights, helping decision-making through clear and accessible visualizations. I have experience using Python and data visualization tools like Power BI.
 
