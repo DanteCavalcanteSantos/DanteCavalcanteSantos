@@ -34,11 +34,11 @@ Feel free to reach out to me here on GitHub!
 Thanks for stopping by! 🚀
 
 
-## Status dos meus projetos no Github | Status of my projects on Github
+<!-- ## Status dos meus projetos no Github | Status of my projects on Github
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanteCavalcanteSantos&show_icons=true&theme=dark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteCavalcanteSantos&layout=compact&angs_count=16&theme=dark">
-</div>
+</div> -->
 
 ## Tecnologias que eu trabalho | Technologies that I work with
 <div style="display: inline_block"><br>
